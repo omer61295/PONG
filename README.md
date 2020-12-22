@@ -4,6 +4,9 @@ For now only against computer
 
 Option for multiplayer will be uploaded soon
 
-main menu:
-(for now available only two players)
-![stack Overflow](https://github.com/omer61295/PONG/blob/main/images/start.png)
+start game:
+![start](https://github.com/omer61295/PONG/blob/main/images/start.png)
+
+
+game:
+![game](https://github.com/omer61295/PONG/blob/main/images/game.png)
